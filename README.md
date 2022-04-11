@@ -11,7 +11,7 @@ Com isto, as  análises métricas estáticas consideradas neste trabalho serão 
 Para obter os dados de medição apresentados neste trabalho será necessário baixar o código de 300 sistemas python. Para isto será utilizado a ferramenta graphql do github que permite por meio de web service API, baixar informações dos repositórios. Então será desenvolvido um script para automatizar a clonagem dos repositórios. E por fim, desenvolver um programa encarregado de percorrer cada um desses sistemas, realizar as medidas por meio da ferramenta Radon e construir uma tabela onde foram registradas todas essas medidas. 
 
 ## Alunos integrantes da equipe
-
+* André Murilo Neves Vasconcelos
 * Leonardo Antunes Barreto Noman
 * Lorrayne Reis
 * Paulo Henrique Cota Starling
