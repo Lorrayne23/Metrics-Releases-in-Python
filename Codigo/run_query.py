@@ -1,10 +1,21 @@
 import pandas as pd
 import requests
 import time
+from datetime import datetime
+from datetime import date
 
 token = input("Entre com seu token: ")
 
 headers = {"Authorization": f"Bearer {token}"}
+
+def calculate_repo_age(create_date):
+  today = date.today()
+  create_date = create_date.split("T", 1)
+  create_date = datetime.strptime(create_date[0], '%Y-%m-%d').date()
+  delta = today - create_date
+  age = delta.days/360
+  i, d = divmod(age, 1)
+  return i
 
 def run_query(cursor):
     f_cursor = "null" if cursor is None else "\"" + cursor + "\""
@@ -22,7 +33,12 @@ def run_query(cursor):
     nodes {
       ... on Repository {
         nameWithOwner
+        createdAt
+        stargazers {
+          totalCount
+        }
         releases(first: 50) {
+          totalCount
           nodes {
             url
             releaseAssets(first: 30) {
@@ -68,9 +84,13 @@ def save_file(result):
                     break
 
     if len(releases) >= 10:
-        data.append([name, releases[0:10]])
+      stargazers = r['stargazers']['totalCount']
+      age = calculate_repo_age(r['createdAt'])
+      num_of_releases = r['releases']['totalCount']
 
-    columns = ["Name", "Releases"]
+      data.append([name, stargazers, age, num_of_releases, releases[0:10]])
+
+    columns = ["Name", "Stargazers", "Age", "Num_of_Releases","Releases"]
     df = pd.DataFrame(data, columns=columns) 
     df.to_csv("repositorios_populares_python.csv")
 
