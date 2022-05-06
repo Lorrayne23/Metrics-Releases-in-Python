@@ -1,66 +1,405 @@
-,Name,Releases
-0,ytdl-org/youtube-dl,"['https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.03_tmp/youtube-dl-2016.06.03.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.11/youtube-dl-2016.06.11.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.11.1/youtube-dl-2016.06.11.1.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.11.3/youtube-dl-2016.06.11.3.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.12/youtube-dl-2016.06.12.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.14/youtube-dl-2016.06.14.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.16/youtube-dl-2016.06.16.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.18.1/youtube-dl-2016.06.18.1.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.19/youtube-dl-2016.06.19.tar.gz', 'https://github.com/ytdl-org/youtube-dl/releases/download/2016.06.19.1/youtube-dl-2016.06.19.1.tar.gz']"
-1,pandas-dev/pandas,"['https://github.com/pandas-dev/pandas/releases/download/v0.13.0/pandas-0.13.0.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.13.1/pandas-0.13.1.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.14.0rc1/pandas-0.14.0rc1.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.20.3/pandas-0.20.3.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.21.0rc1/pandas-0.21.0rc1.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.21.0/pandas-0.21.0.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.21.1/pandas-0.21.1.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.22.0/pandas-0.22.0.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.23.0rc1/pandas-0.23.0rc1.tar.gz', 'https://github.com/pandas-dev/pandas/releases/download/v0.23.0rc2/pandas-0.23.0rc2.tar.gz']"
-2,getsentry/sentry,"['https://github.com/getsentry/sentry/releases/download/8.0.0/sentry-8.0.0.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.0.1/sentry-8.0.1.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.0.2/sentry-8.0.2.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.0.3/sentry-8.0.3.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.0.4/sentry-8.0.4.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.0.5/sentry-8.0.5.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.0.6/sentry-8.0.6.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.1.0/sentry-8.1.0.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.1.1/sentry-8.1.1.tar.gz', 'https://github.com/getsentry/sentry/releases/download/8.1.2/sentry-8.1.2.tar.gz']"
-3,mitmproxy/mitmproxy,"['https://github.com/mitmproxy/mitmproxy/releases/download/v0.16/mitmproxy-0.16-win32.zip', 'https://github.com/mitmproxy/mitmproxy/releases/download/v0.17/mitmproxy-0.17-osx.tar.gz', 'https://github.com/mitmproxy/mitmproxy/releases/download/v0.17.1/mitmproxy-0.17.1-win32.zip', 'https://github.com/mitmproxy/mitmproxy/releases/download/v0.18.1/mitmproxy-0.18.1-linux.tar.gz', 'https://github.com/mitmproxy/mitmproxy/releases/download/v0.18.2/mitmproxy-0.18.2-win32.zip', 'https://github.com/mitmproxy/mitmproxy/releases/download/v1.0/mitmproxy-1.0.0-osx.tar.gz', 'https://github.com/mitmproxy/mitmproxy/releases/download/v1.0.1/pathod-1.0.1-windows.zip', 'https://github.com/mitmproxy/mitmproxy/releases/download/v1.0.2/mitmproxy-1.0.2-linux.tar.gz', 'https://github.com/mitmproxy/mitmproxy/releases/download/v2.0.0/pathod-2.0.0-linux.tar.gz', 'https://github.com/mitmproxy/mitmproxy/releases/download/v2.0.1/mitmproxy-2.0.1-linux.tar.gz']"
-4,hankcs/HanLP,"['https://github.com/hankcs/HanLP/releases/download/v1.1.2/hanlp-1.1.2-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.1.3/hanlp-1.1.3-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.1.4/hanlp-1.1.4-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.1.5/hanlp-1.1.5-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.2.0/hanlp-1.2.0-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.2.1/hanlp-1.2.1-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.2.2/hanlp-1.2.2-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.2.3/hanlp-1.2.3-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.2.4/hanlp-1.2.4-release.zip', 'https://github.com/hankcs/HanLP/releases/download/v1.2.5/hanlp-1.2.5-release.zip']"
-5,apache/airflow,"['https://github.com/apache/airflow/releases/download/1.10.5/apache-airflow-1.10.5.tar.gz', 'https://github.com/apache/airflow/releases/download/1.10.6rc1/apache-airflow-1.10.6rc1.tar.gz', 'https://github.com/apache/airflow/releases/download/1.10.7/apache-airflow-1.10.7.tar.gz', 'https://github.com/apache/airflow/releases/download/1.10.8/apache-airflow-1.10.8.tar.gz', 'https://github.com/apache/airflow/releases/download/1.10.9/apache-airflow-1.10.9.tar.gz', 'https://github.com/apache/airflow/releases/download/1.10.10/apache-airflow-1.10.10.tar.gz', 'https://github.com/apache/airflow/releases/download/1.10.11/apache-airflow-1.10.11.tar.gz', 'https://github.com/apache/airflow/releases/download/1.10.12/apache-airflow-1.10.12-bin.tar.gz', 'https://github.com/apache/airflow/releases/download/2.0.0b3/apache-airflow-2.0.0b3-bin.tar.gz', 'https://github.com/apache/airflow/releases/download/1.10.13/apache-airflow-1.10.13-bin.tar.gz']"
-6,yt-dlp/yt-dlp,"['https://github.com/yt-dlp/yt-dlp/releases/download/2021.06.08/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.06.09/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.06.23/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.07.07/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.07.21/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.07.24/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.08.02/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.08.10/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.09.02/yt-dlp.tar.gz', 'https://github.com/yt-dlp/yt-dlp/releases/download/2021.09.25/yt-dlp.tar.gz']"
-7,tqdm/tqdm,"['https://github.com/tqdm/tqdm/releases/download/v2.0.0/tqdm-2.0.0.tar.gz', 'https://github.com/tqdm/tqdm/releases/download/v2.2.4/tqdm-2.2.4.tar.gz', 'https://github.com/tqdm/tqdm/releases/download/v3.1.4/tqdm-3.1.4.zip', 'https://github.com/tqdm/tqdm/releases/download/v3.3.0/tqdm-3.3.0.tar.gz', 'https://github.com/tqdm/tqdm/releases/download/v3.5.0/tqdm-3.5.0.tar.gz', 'https://github.com/tqdm/tqdm/releases/download/v3.6.0/tqdm-3.6.0.tar.gz', 'https://github.com/tqdm/tqdm/releases/download/v3.7.1/tqdm-3.7.1.tar.gz', 'https://github.com/tqdm/tqdm/releases/download/v3.8.0/tqdm-3.8.0.tar.gz', 'https://github.com/tqdm/tqdm/releases/download/v4.0.0/tqdm-4.0.0.tar.gz', 'https://github.com/tqdm/tqdm/releases/download/v4.2.0/tqdm-4.2.0.tar.gz']"
-8,getredash/redash,"['https://github.com/getredash/redash/releases/download/v0.3.2%2Bb134/redash.0.3.2.b134.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb618/redash.0.4.0.b618.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb620/redash.0.4.0.b620.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb622/redash.0.4.0.b622.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb623/redash.0.4.0.b623.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb627/redash.0.4.0.b627.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb628/redash.0.4.0.b628.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb629/redash.0.4.0.b629.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb630/redash.0.4.0.b630.tar.gz', 'https://github.com/getredash/redash/releases/download/v0.4.0%2Bb632/redash.0.4.0.b632.tar.gz']"
-9,numpy/numpy,"['https://github.com/numpy/numpy/releases/download/v1.12.0b1/numpy-1.12.0b1.zip', 'https://github.com/numpy/numpy/releases/download/v1.11.3/numpy-1.11.3.tar.gz', 'https://github.com/numpy/numpy/releases/download/v1.12.0rc1/numpy-1.12.0rc1.tar.gz', 'https://github.com/numpy/numpy/releases/download/v1.12.0rc2/numpy-1.12.0rc2.tar.gz', 'https://github.com/numpy/numpy/releases/download/v1.12.0/numpy-1.12.0.tar.gz', 'https://github.com/numpy/numpy/releases/download/v1.12.1rc1/numpy-1.12.1rc1.zip', 'https://github.com/numpy/numpy/releases/download/v1.12.1/numpy-1.12.1.tar.gz', 'https://github.com/numpy/numpy/releases/download/v1.13.0rc1/numpy-1.13.0rc1.tar.gz', 'https://github.com/numpy/numpy/releases/download/v1.13.0rc2/numpy-1.13.0rc2.tar.gz', 'https://github.com/numpy/numpy/releases/download/v1.13.0/numpy-1.13.0.tar.gz']"
-10,microsoft/cascadia-code,"['https://github.com/microsoft/cascadia-code/releases/download/v2004.30/CascadiaCode_2004.30.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2005.15/CascadiaCode_2005.15.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2007.01/CascadiaCode-2007.01.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2008.25/CascadiaCode-2008.25.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2009.14/CascadiaCode-2009.14.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2009.22/CascadiaCode-2009.22.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2102.03/CascadiaCode-2102.03.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2102.25/CascadiaCode-2102.25.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2105.24/CascadiaCode-2105.24.zip', 'https://github.com/microsoft/cascadia-code/releases/download/v2106.17/CascadiaCode-2106.17.zip']"
-11,python-poetry/poetry,"['https://github.com/python-poetry/poetry/releases/download/0.12.0a0/poetry-0.12.0a0-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.0a1/poetry-0.12.0a1-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.0a2/poetry-0.12.0a2-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.0a3/poetry-0.12.0a3-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.0a4/poetry-0.12.0a4-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.0a5/poetry-0.12.0a5-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.0/poetry-0.12.0-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.1/poetry-0.12.1-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.2/poetry-0.12.2-darwin.tar.gz', 'https://github.com/python-poetry/poetry/releases/download/0.12.3/poetry-0.12.3-darwin.tar.gz']"
-12,jumpserver/jumpserver,"['https://github.com/jumpserver/jumpserver/releases/download/v2.0.2/jumpserver-v2.0.2.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.1.0/jumpserver-v2.1.0.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.1.1/jumpserver-v2.1.1.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.1.2/jumpserver-v2.1.2.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.2.0/jumpserver-v2.2.0.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.2.1/jumpserver-v2.2.1.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.2.2/jumpserver-v2.2.2.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.2.3/jumpserver-v2.2.3.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.3.0/jumpserver-v2.3.0.tar.gz', 'https://github.com/jumpserver/jumpserver/releases/download/v2.3.1/jumpserver-v2.3.1.tar.gz']"
-13,PyTorchLightning/pytorch-lightning,"['https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.0/pytorch-lightning-1.1.0.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.1/pytorch-lightning-1.1.1.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.2/pytorch-lightning-1.1.2.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.3/pytorch-lightning-1.1.3.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.4/pytorch-lightning-1.1.4.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.5/pytorch-lightning-1.1.5.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.6/pytorch-lightning-1.1.6.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.7/pytorch-lightning-1.1.7.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.1.8/pytorch-lightning-1.1.8.tar.gz', 'https://github.com/PyTorchLightning/pytorch-lightning/releases/download/1.2.0/pytorch-lightning-1.2.0.tar.gz']"
-14,zulip/zulip,"['https://github.com/zulip/zulip/releases/download/1.4.3/zulip-server-1.4.3.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.4.2/zulip-server-1.4.2.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.4.1/zulip-server-1.4.1.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.4.0/zulip-server-1.4.0.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.3.13/zulip-server-1.3.13.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.3.12/zulip-server-1.3.12.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.3.11/zulip-server-1.3.11.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.3.10/zulip-server-1.3.10.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.3.9/zulip-server-1.3.9.tar.gz', 'https://github.com/zulip/zulip/releases/download/1.3.8/zulip-server-1.3.8.tar.gz']"
-15,ipython/ipython,"['https://github.com/ipython/ipython/releases/download/rel-1.0.0/ipython-1.0.0.tar.gz', 'https://github.com/ipython/ipython/releases/download/rel-1.1.0/ipython-1.1.0.tar.gz', 'https://github.com/ipython/ipython/releases/download/rel-1.2.0/ipython-1.2.0.zip', 'https://github.com/ipython/ipython/releases/download/rel-1.2.1/ipython-1.2.1.zip', 'https://github.com/ipython/ipython/releases/download/rel-2.1.0/ipython-2.1.0.zip', 'https://github.com/ipython/ipython/releases/download/rel-3.0.0/ipython-3.0.0.zip', 'https://github.com/ipython/ipython/releases/download/6.0.0rc1/ipython-6.0.0rc1.tar.gz', 'https://github.com/ipython/ipython/releases/download/6.0.0/ipython-6.0.0.tar.gz', 'https://github.com/ipython/ipython/releases/download/6.1.0/ipython-6.1.0.tar.gz', 'https://github.com/ipython/ipython/releases/download/6.2.0/ipython-6.2.0.tar.gz']"
-16,rsms/inter,"['https://github.com/rsms/inter/releases/download/v1.8/Inter-UI-1.8.zip', 'https://github.com/rsms/inter/releases/download/v1.9/Inter-UI-1.9.zip', 'https://github.com/rsms/inter/releases/download/v1.10/Inter-UI-1.10.zip', 'https://github.com/rsms/inter/releases/download/v1.11/Inter-UI-1.11.zip', 'https://github.com/rsms/inter/releases/download/v2.0/Inter-UI-2.0.zip', 'https://github.com/rsms/inter/releases/download/v2.1/Inter-UI-2.1.zip', 'https://github.com/rsms/inter/releases/download/v2.2/Inter-UI-2.2.zip', 'https://github.com/rsms/inter/releases/download/v2.3/Inter-UI-2.3.zip', 'https://github.com/rsms/inter/releases/download/v2.4/Inter-UI-2.4.zip', 'https://github.com/rsms/inter/releases/download/v2.5-beta/Inter-UI-2.5-beta-57238c6c82.zip']"
-17,saltstack/salt,"['https://github.com/saltstack/salt/releases/download/v2014.1.0/salt-2014.1.0.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.17.5/salt-0.17.5.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.17.4/salt-0.17.4.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.17.3/salt-0.17.3.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.10.0/salt-0.10.0.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.10.1/salt-0.10.1.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.10.2/salt-0.10.2.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.10.3/salt-0.10.3.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.10.4/salt-0.10.4.tar.gz', 'https://github.com/saltstack/salt/releases/download/v0.10.5/salt-0.10.5.tar.gz']"
-18,apprenticeharper/DeDRM_tools,"['https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.2.0/tools_v6.2.0.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.1.0/tools_v6.1.0.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.0.9/tools_v6.0.9.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.0.8/tools_v6.0.8.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.0.7/tools_v6.0.7.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.0.5/tools_v6.0.5.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.0.4/tools_v6.0.4.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.0.3/tools_v6.0.3.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.0.2/tools_v6.0.2.zip', 'https://github.com/apprenticeharper/DeDRM_tools/releases/download/v6.0.1/tools_v6.0.1.zip']"
-19,beetbox/beets,"['https://github.com/beetbox/beets/releases/download/v1.2.1/beets-1.2.1.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.2.2/beets-1.2.2.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.3.0/beets-1.3.0.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.3.2/beets-1.3.2.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.3.3/beets-1.3.3.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.3.4/beets-1.3.4.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.3.5/beets-1.3.5.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.3.6/beets-1.3.6.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.3.7/beets-1.3.7.tar.gz', 'https://github.com/beetbox/beets/releases/download/v1.3.8/beets-1.3.8.tar.gz']"
-20,ManimCommunity/manim,"['https://github.com/ManimCommunity/manim/releases/download/v0.1.1/manimce-0.1.1.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.2.0/manim-0.2.0.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.3.0/manim-0.3.0.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.4.0/manim-0.4.0.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.5.0/manim-0.5.0.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.6.0/manim-0.6.0.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.7.0/manim-0.7.0.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.8.0/manim-0.8.0.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.9.0/manim-0.9.0.tar.gz', 'https://github.com/ManimCommunity/manim/releases/download/v0.10.0/manim-0.10.0.tar.gz']"
-21,scipy/scipy,"['https://github.com/scipy/scipy/releases/download/v0.16.0/scipy-0.16.0.zip', 'https://github.com/scipy/scipy/releases/download/v0.16.1/scipy-0.16.1.zip', 'https://github.com/scipy/scipy/releases/download/v0.17.0rc1/scipy-0.17.0rc1.tar.gz', 'https://github.com/scipy/scipy/releases/download/v0.17.0rc2/scipy-0.17.0rc2.tar.gz', 'https://github.com/scipy/scipy/releases/download/v0.17.0/scipy-0.17.0.tar.gz', 'https://github.com/scipy/scipy/releases/download/v0.17.1/scipy-0.17.1.tar.gz', 'https://github.com/scipy/scipy/releases/download/v0.18.0rc1/scipy-0.18.0rc1.tar.gz', 'https://github.com/scipy/scipy/releases/download/v0.18.0rc2/scipy-0.18.0rc2.tar.gz', 'https://github.com/scipy/scipy/releases/download/v0.18.0/scipy-0.18.0.tar.gz', 'https://github.com/scipy/scipy/releases/download/v0.18.1/scipy-0.18.1.tar.gz']"
-22,pyinstaller/pyinstaller,"['https://github.com/pyinstaller/pyinstaller/releases/download/v2.1/PyInstaller-2.1.zip', 'https://github.com/pyinstaller/pyinstaller/releases/download/3.0.dev2/PyInstaller-3.0.dev2.tar.gz', 'https://github.com/pyinstaller/pyinstaller/releases/download/v2.0/pyinstaller-2.0.zip', 'https://github.com/pyinstaller/pyinstaller/releases/download/v1.5.1/pyinstaller-1.5.1.zip', 'https://github.com/pyinstaller/pyinstaller/releases/download/v1.5/pyinstaller-1.5.zip', 'https://github.com/pyinstaller/pyinstaller/releases/download/v1.4/pyinstaller-1.4.zip', 'https://github.com/pyinstaller/pyinstaller/releases/download/v1.3/pyinstaller_1.3.tar.gz', 'https://github.com/pyinstaller/pyinstaller/releases/download/v1.2/pyinstaller_1.2.tar.gz', 'https://github.com/pyinstaller/pyinstaller/releases/download/v1.1/pyinstaller_1.1.zip', 'https://github.com/pyinstaller/pyinstaller/releases/download/v1.0/mcmillan_installer_5b5_5.zip']"
-23,sympy/sympy,"['https://github.com/sympy/sympy/releases/download/sympy-0.7.3.rc1/sympy-0.7.3.rc1-py3.2.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.3/sympy-0.7.3.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.4.rc1/sympy-0.7.4.rc1.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.4/sympy-0.7.4.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.4.1/sympy-0.7.4.1.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.5.rc1/sympy-0.7.5.rc1.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.5/sympy-0.7.5.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.6.rc1/sympy-0.7.6.rc1.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.6.rc2/sympy-0.7.6.rc2.tar.gz', 'https://github.com/sympy/sympy/releases/download/sympy-0.7.6/sympy-0.7.6.tar.gz']"
-24,falconry/falcon,"['https://github.com/falconry/falcon/releases/download/3.0.0a3/falcon-3.0.0a3.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.0.0b1/falcon-3.0.0b1.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.0.0b2/falcon-3.0.0b2.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.0.0rc1/falcon-3.0.0rc1.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.0.0rc2/falcon-3.0.0rc2.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.0.0rc3/falcon-3.0.0rc3.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.0.0/falcon-3.0.0.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.0.1/falcon-3.0.1.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.1.0rc2/falcon-3.1.0rc2.tar.gz', 'https://github.com/falconry/falcon/releases/download/3.1.0rc3/falcon-3.1.0rc3.tar.gz']"
-25,SecureAuthCorp/impacket,"['https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_13/impacket-0.9.13.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_14/impacket-0.9.14.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_15/impacket-0.9.15.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_18/impacket-0.9.18.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_19/impacket-0.9.19.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_20/impacket-0.9.20.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_21/impacket-0.9.21.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_22/impacket-0.9.22.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_23/impacket-0.9.23.tar.gz', 'https://github.com/SecureAuthCorp/impacket/releases/download/impacket_0_9_24/impacket-0.9.24.tar.gz']"
-26,wkentaro/labelme,"['https://github.com/wkentaro/labelme/releases/download/v2.10.0/labelme-macOS.app.zip', 'https://github.com/wkentaro/labelme/releases/download/v2.10.4/labelme-macOS.app.zip', 'https://github.com/wkentaro/labelme/releases/download/v2.11.0/labelme-macOS.zip', 'https://github.com/wkentaro/labelme/releases/download/v2.12.0/labelme-macOS.zip', 'https://github.com/wkentaro/labelme/releases/download/v2.13.0/labelme-macOS.zip', 'https://github.com/wkentaro/labelme/releases/download/v2.14.0/labelme-macOS.zip', 'https://github.com/wkentaro/labelme/releases/download/v3.6.10/labelme-Linux.zip', 'https://github.com/wkentaro/labelme/releases/download/v3.6.11/labelme-Linux.zip', 'https://github.com/wkentaro/labelme/releases/download/v3.6.12/labelme-Linux.zip', 'https://github.com/wkentaro/labelme/releases/download/v3.6.13/labelme-Linux.zip']"
-27,borgbackup/borg,"['https://github.com/borgbackup/borg/releases/download/0.29.0/borgbackup-0.29.0.tar.gz', 'https://github.com/borgbackup/borg/releases/download/0.30.0/borgbackup-0.30.0.tar.gz', 'https://github.com/borgbackup/borg/releases/download/1.0.0rc1/borgbackup-1.0.0rc1.tar.gz', 'https://github.com/borgbackup/borg/releases/download/0.30.1/borgbackup-0.30.1.tar.gz', 'https://github.com/borgbackup/borg/releases/download/1.0.0rc2/borgbackup-1.0.0rc2.tar.gz', 'https://github.com/borgbackup/borg/releases/download/1.0.0/borgbackup-1.0.0.tar.gz', 'https://github.com/borgbackup/borg/releases/download/1.0.1/borgbackup-1.0.1.tar.gz', 'https://github.com/borgbackup/borg/releases/download/1.0.2/borgbackup-1.0.2.tar.gz', 'https://github.com/borgbackup/borg/releases/download/1.0.3/borgbackup-1.0.3.tar.gz', 'https://github.com/borgbackup/borg/releases/download/1.0.4/borgbackup-1.0.4.tar.gz']"
-28,spotDL/spotify-downloader,"['https://github.com/spotDL/spotify-downloader/releases/download/v1.1.1/spotdl-1.1.1.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v1.1.2/spotdl-1.1.2.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v1.2.0/spotdl-1.2.0.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v1.2.1/spotdl-1.2.1.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v1.2.2/spotdl-1.2.2.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v1.2.3/spotdl-1.2.3.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v1.2.4/spotdl-1.2.4.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v3.3.3/spotdl-3.3.3.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v3.4.1/spotdl-3.4.1.tar.gz', 'https://github.com/spotDL/spotify-downloader/releases/download/v3.5.0/spotdl-3.5.0.tar.gz']"
-29,qutebrowser/qutebrowser,"['https://github.com/qutebrowser/qutebrowser/releases/download/v0.1/qutebrowser-v0.1.0-windows-standalone-win32.zip', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.1.1/qutebrowser-0.1.1.tar.gz', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.1.2/qutebrowser-0.1.2.tar.gz', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.1.3/qutebrowser-0.1.3.tar.gz', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.1.4/qutebrowser-0.1.4.tar.gz', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.2.0/qutebrowser-0.2.0.tar.gz', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.2.1/qutebrowser-0.2.1.tar.gz', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.3.0/qutebrowser-0.3.0.tar.gz', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.4.0/qutebrowser-0.4.0.tar.gz', 'https://github.com/qutebrowser/qutebrowser/releases/download/v0.4.1/qutebrowser-0.4.1-windows-standalone-win32.zip']"
-30,KurtBestor/Hitomi-Downloader,"['https://github.com/KurtBestor/Hitomi-Downloader/releases/download/Technical-Preview/hitomi_downloader_GUI_test.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v1.9d/hitomi_downloader_GUI.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v1.9e/hitomi_downloader_GUI.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/Utils/goodbyedpi.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v2.0/hitomi_downloader_GUI.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v2.1/hitomi_downloader_GUI.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v2.1a/hitomi_downloader_GUI.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v2.1b/hitomi_downloader_GUI.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v2.2/hitomi_downloader_GUI.zip', 'https://github.com/KurtBestor/Hitomi-Downloader/releases/download/v2.2a/hitomi_downloader_GUI.zip']"
-31,streamlink/streamlink,"['https://github.com/streamlink/streamlink/releases/download/0.0.1/streamlink-0.0.1.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.0.2/streamlink-0.0.2.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.1.0/streamlink-0.1.0.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.2.0/streamlink-0.2.0.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.3.0/streamlink-0.3.0.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.3.1/streamlink-0.3.1.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.3.2/streamlink-0.3.2.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.4.0/streamlink-0.4.0.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.5.0/streamlink-0.5.0.tar.gz', 'https://github.com/streamlink/streamlink/releases/download/0.6.0/streamlink-0.6.0.tar.gz']"
-32,AlessandroZ/LaZagne,"['https://github.com/AlessandroZ/LaZagne/releases/download/0.9/Windows_0.9.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/0.9.1/Linux-32bits.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/1.0/Windows.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/1.1/Windows.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/1.3/Windows.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/1.4/Windows.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/1.5/Windows.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/1.6/Windows.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/1.7/Windows.zip', 'https://github.com/AlessandroZ/LaZagne/releases/download/1.8/Windows.zip']"
-33,ActivityWatch/activitywatch,"['https://github.com/ActivityWatch/activitywatch/releases/download/v0.4.0/activitywatch-linux.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.5.0/activitywatch-linux.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.5.1/activitywatch-linux.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.7.0b1/activitywatch-linux-x86_64-v0.7.0b1.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.7.0b2/activitywatch-v0.7.0b2-windows-x86_64.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.7.0b3/activitywatch-v0.7.0b3-windows-x86_64.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.7.0b4/activitywatch-v0.7.0b4-windows-x86_64.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.7.1/activitywatch-v0.7.1-linux-x86_64.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.8.0b1/activitywatch-v0.8.0b1-linux-x86_64.zip', 'https://github.com/ActivityWatch/activitywatch/releases/download/v0.8.0b2/activitywatch-v0.8.0b2-linux-x86_64.zip']"
-34,kornia/kornia,"['https://github.com/kornia/kornia/releases/download/0.5.3/kornia-0.5.3.tar.gz', 'https://github.com/kornia/kornia/releases/download/0.5.4/kornia-0.5.4.tar.gz', 'https://github.com/kornia/kornia/releases/download/0.5.5/kornia-0.5.5.tar.gz', 'https://github.com/kornia/kornia/releases/download/0.5.6/kornia-0.5.6.tar.gz', 'https://github.com/kornia/kornia/releases/download/0.5.7/kornia-0.5.7.tar.gz', 'https://github.com/kornia/kornia/releases/download/0.5.8/kornia-0.5.8.tar.gz', 'https://github.com/kornia/kornia/releases/download/0.5.11/kornia-0.5.11.tar.gz', 'https://github.com/kornia/kornia/releases/download/v0.6.0/kornia-0.6.0.tar.gz', 'https://github.com/kornia/kornia/releases/download/v0.6.1/kornia-0.6.1.tar.gz', 'https://github.com/kornia/kornia/releases/download/v0.6.2/kornia-0.6.2.tar.gz']"
-35,belluzj/fantasque-sans,"['https://github.com/belluzj/fantasque-sans/releases/download/1.3.2/CosmicSansNeueMono.zip', 'https://github.com/belluzj/fantasque-sans/releases/download/v1.4.1/FantasqueSansMono.zip', 'https://github.com/belluzj/fantasque-sans/releases/download/1.5/FantasqueSansMono.zip', 'https://github.com/belluzj/fantasque-sans/releases/download/v1.6/FantasqueSansMono.zip', 'https://github.com/belluzj/fantasque-sans/releases/download/v1.6.1/FantasqueSansMono.zip', 'https://github.com/belluzj/fantasque-sans/releases/download/v1.7.0-half-em/FantasqueSansMono-1.7.0-HalfEM.zip', 'https://github.com/belluzj/fantasque-sans/releases/download/v1.6.2/FantasqueSansMono.zip', 'https://github.com/belluzj/fantasque-sans/releases/download/v1.6.3/FantasqueSansMono.tar.gz', 'https://github.com/belluzj/fantasque-sans/releases/download/1.6.4/FantasqueSansMono.zip', 'https://github.com/belluzj/fantasque-sans/releases/download/v1.6.5/FantasqueSansMono.zip']"
-36,aws/aws-sam-cli,"['https://github.com/aws/aws-sam-cli/releases/download/v0.1.0/sam_0.1.0_darwin_386.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.1.1/sam_0.1.1_windows_386.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.2.0/sam_0.2.0_linux_386.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.2.2/sam_0.2.2_linux_amd64.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.2.3/sam_0.2.3_linux_386.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.2.4/sam_0.2.4_windows_386.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.2.5/sam_0.2.5_windows_386.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.2.6/sam_0.2.6_linux_386.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.2.7/sam_0.2.7_windows_386.tar.gz', 'https://github.com/aws/aws-sam-cli/releases/download/v0.2.8/sam_0.2.8_linux_386.tar.gz']"
-37,shenweichen/DeepCTR,"['https://github.com/shenweichen/DeepCTR/releases/download/v0.1.4/deepctr-0.1.4.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.1.5/deepctr-0.1.5.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.1.6/deepctr-0.1.6.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.2.0/deepctr-0.2.0.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.2.1/deepctr-0.2.1.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.2.2/deepctr-0.2.2.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.2.3/deepctr-0.2.3.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.3.1/deepctr-0.3.1.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.3.2/deepctr-0.3.2.tar.gz', 'https://github.com/shenweichen/DeepCTR/releases/download/v0.3.3/deepctr-0.3.3.tar.gz']"
-38,xonsh/xonsh,"['https://github.com/xonsh/xonsh/releases/download/0.6.2/0.6.2.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.6.3/0.6.3.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.6.4/0.6.4.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.6.5/0.6.5.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.6.6/0.6.6.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.6.7/0.6.7.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.6.8/0.6.8.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.6.9/0.6.9.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.6.10/0.6.10.tar.gz', 'https://github.com/xonsh/xonsh/releases/download/0.7.0/0.7.0.tar.gz']"
-39,gevent/gevent,"['https://github.com/gevent/gevent/releases/download/1.0rc3/gevent-1.0rc3.tar.gz', 'https://github.com/gevent/gevent/releases/download/1.0/gevent-1.0.tar.gz', 'https://github.com/gevent/gevent/releases/download/1.0.1/gevent-1.0.1.tar.gz', 'https://github.com/gevent/gevent/releases/download/v1.0.2/gevent-1.0.2.tar.gz', 'https://github.com/gevent/gevent/releases/download/v1.1a1/gevent-1.1a1.tar.gz', 'https://github.com/gevent/gevent/releases/download/v1.1a2/gevent-1.1a2.tar.gz', 'https://github.com/gevent/gevent/releases/download/v1.1b1/gevent-1.1b1.tar.gz', 'https://github.com/gevent/gevent/releases/download/v1.1b2/gevent-1.1b2.tar.gz', 'https://github.com/gevent/gevent/releases/download/v1.1b3/gevent-1.1b3.tar.gz', 'https://github.com/gevent/gevent/releases/download/v1.1b4/gevent-1.1b4.tar.gz']"
-40,brython-dev/brython,"['https://github.com/brython-dev/brython/releases/download/2.2.1/Brython2.2.1_site_mirror-20140915-210107.zip', 'https://github.com/brython-dev/brython/releases/download/2.2.0/Brython2.2.0rc0_site_mirror-20140913-093500.zip', 'https://github.com/brython-dev/brython/releases/download/3.0.0rc0/Brython3.0.0rc0_site_mirror-20141011-100637.tar.gz', 'https://github.com/brython-dev/brython/releases/download/3.0.0/Brython3.0.0_site_mirror-20141104-210332.zip', 'https://github.com/brython-dev/brython/releases/download/3.0.1/Brython3.0.1_site_mirror-20141213-112128.tar.gz', 'https://github.com/brython-dev/brython/releases/download/3.0.2/Brython3.0.2_site_mirror-20150102-140610.zip', 'https://github.com/brython-dev/brython/releases/download/3.1.0/Brython3.1.0_site_mirror-20150301-090019.zip', 'https://github.com/brython-dev/brython/releases/download/3.1.1/Brython3.1.1_site_mirror-20150328-091302.tar.gz', 'https://github.com/brython-dev/brython/releases/download/3.1.2/Brython3.1.2_site_mirror-20150508-154616.tar.gz', 'https://github.com/brython-dev/brython/releases/download/3.1.3/Brython3.1.3_site_mirror-20150514-095342.tar.gz']"
-41,Dman95/SASM,"['https://github.com/Dman95/SASM/releases/download/v3.0/SASM30.zip', 'https://github.com/Dman95/SASM/releases/download/v3.0.1/SASM301.zip', 'https://github.com/Dman95/SASM/releases/download/v3.1.0/SASM310.zip', 'https://github.com/Dman95/SASM/releases/download/v3.1.1/SASM311.zip', 'https://github.com/Dman95/SASM/releases/download/v3.1.2/SASM312.zip', 'https://github.com/Dman95/SASM/releases/download/v3.1.3/SASM313.zip', 'https://github.com/Dman95/SASM/releases/download/v3.1.4/SASM314.zip', 'https://github.com/Dman95/SASM/releases/download/v3.2.0/SASM320.zip', 'https://github.com/Dman95/SASM/releases/download/v3.3.0/SASM330.zip', 'https://github.com/Dman95/SASM/releases/download/v3.4.0/SASM340.zip']"
-42,nate-parrott/Flashlight,"['https://github.com/nate-parrott/Flashlight/releases/download/v0.1-alpha/Flashlight.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.11-alpha/Flashlight.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.2-alpha/Flashlight.2.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.21-alpha/Flashlight.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.3-alpha/Flashlight.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.31-alpha/Flashlight.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.4-alpha/Flashlight.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.41-alpha/Flashlight.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.42-alpha/Flashlight.zip', 'https://github.com/nate-parrott/Flashlight/releases/download/v0.43-alpha/Flashlight.zip']"
-43,nl8590687/ASRT_SpeechRecognition,"['https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v0.1/ASRT_v0.1.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v0.2/ASRT_v0.2.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v0.3/ASRT_v0.3.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v0.4/ASRT_v0.4.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v0.4.2/ASRT_v0.4.2.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v0.5.0/ASRT_v0.5.0.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v0.6.0/ASRT_v0.6.0.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v0.6.1/ASRT_v0.6.1.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v1.0.0/ASRT_v1.0.0.zip', 'https://github.com/nl8590687/ASRT_SpeechRecognition/releases/download/v1.1.0/ASRT_v1.1.0.zip']"
-44,onionshare/onionshare,"['https://github.com/onionshare/onionshare/releases/download/v2.1/onionshare-2.1.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.2/onionshare-2.2.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.3.dev2/onionshare-2.3.dev2.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.3/onionshare-2.3.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.3.1/onionshare-2.3.1.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.3.2/onionshare-2.3.2.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.3.3/onionshare-2.3.3.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.4.dev1/onionshare-2.4.dev1.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.4/onionshare-2.4.tar.gz', 'https://github.com/onionshare/onionshare/releases/download/v2.5/onionshare-2.5.tar.gz']"
-45,caronc/apprise,"['https://github.com/caronc/apprise/releases/download/v0.7.3/apprise-0.7.3.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.7.4/apprise-0.7.4.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.7.5/apprise-0.7.5.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.7.6/apprise-0.7.6.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.7.7/apprise-0.7.7.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.7.8/apprise-0.7.8.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.7.9/apprise-0.7.9.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.8.0/apprise-0.8.0.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.8.1/apprise-0.8.1.tar.gz', 'https://github.com/caronc/apprise/releases/download/v0.8.2/apprise-0.8.2.tar.gz']"
-46,buildbot/buildbot,"['https://github.com/buildbot/buildbot/releases/download/v0.9.15/buildbot-0.9.15.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v0.9.15.post1/buildbot-pkg-0.9.15.post1.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v1.0.0/buildbot-1.0.0.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v1.1.0/buildbot-1.1.0.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v1.1.1/buildbot-1.1.1.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v1.1.2/buildbot-1.1.2.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v1.2.0/buildbot-1.2.0.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v1.3.0/buildbot-1.3.0.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v1.4.0/buildbot-www-1.4.0.tar.gz', 'https://github.com/buildbot/buildbot/releases/download/v1.5.0/buildbot-badges-1.5.0.tar.gz']"
-47,facebook/PathPicker,"['https://github.com/facebook/PathPicker/releases/download/0.5.4/fpp.0.5.4.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.5.5/fpp.0.5.5.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.5.6/fpp.0.5.6.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.5.7/fpp.0.5.7.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.6.0/fpp.0.6.0.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.6.1/fpp.0.6.1.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.6.2/fpp.0.6.2.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.7.0/fpp.0.7.0.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.7.1/fpp.0.7.1.tar.gz', 'https://github.com/facebook/PathPicker/releases/download/0.7.2/fpp.0.7.2.tar.gz']"
-48,mikf/gallery-dl,"['https://github.com/mikf/gallery-dl/releases/download/v0.6.2/gallery_dl-0.6.2.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v0.8.4/gallery_dl-0.8.4.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v0.9.0/gallery_dl-0.9.0.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v0.9.1/gallery_dl-0.9.1.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v1.0.0/gallery_dl-1.0.0.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v1.0.1/gallery_dl-1.0.1.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v1.0.2/gallery_dl-1.0.2.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v1.1.0/gallery_dl-1.1.0.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v1.1.1/gallery_dl-1.1.1.tar.gz', 'https://github.com/mikf/gallery-dl/releases/download/v1.1.2/gallery_dl-1.1.2.tar.gz']"
-49,minimaxir/textgenrnn,"['https://github.com/minimaxir/textgenrnn/releases/download/v1.0/textgenrnn-1.0.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v1.1/textgenrnn-1.1.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v1.2/textgenrnn-1.2.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v1.2.1/textgenrnn-1.2.1.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v1.2.2/textgenrnn-1.2.2.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v1.3/textgenrnn-1.3.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v1.3.1/textgenrnn-1.3.1.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v1.4.1/textgenrnn-1.4.1.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v1.5.0/textgenrnn-1.5.0.tar.gz', 'https://github.com/minimaxir/textgenrnn/releases/download/v2.0.0/textgenrnn-2.0.0.tar.gz']"
-50,posativ/isso,"['https://github.com/posativ/isso/releases/download/0.7/isso-0.7.1.tar.gz', 'https://github.com/posativ/isso/releases/download/0.9/isso-0.9.1.tar.gz', 'https://github.com/posativ/isso/releases/download/0.9.2/isso-0.9.2.tar.gz', 'https://github.com/posativ/isso/releases/download/0.9.3/isso-0.9.3.tar.gz', 'https://github.com/posativ/isso/releases/download/0.9.5/isso-0.9.5.tar.gz', 'https://github.com/posativ/isso/releases/download/0.9.6/isso-0.9.6.tar.gz', 'https://github.com/posativ/isso/releases/download/0.9.9/isso-0.9.tar.gz', 'https://github.com/posativ/isso/releases/download/0.10/isso-0.10.tar.gz', 'https://github.com/posativ/isso/releases/download/0.10.1/isso-0.10.1.tar.gz', 'https://github.com/posativ/isso/releases/download/0.10.2/isso-0.10.2.tar.gz']"
-51,thu-ml/tianshou,"['https://github.com/thu-ml/tianshou/releases/download/v0.3.0rc0/tianshou-0.3.0rc0.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.3.0/tianshou-0.3.0.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.3.0.post1/tianshou-0.3.0.post1.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.3.1/tianshou-0.3.1.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.3.2/tianshou-0.3.2.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.4.0/tianshou-0.4.0.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.4.1/tianshou-0.4.1.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.4.2/tianshou-0.4.2.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.4.3/tianshou-0.4.3.tar.gz', 'https://github.com/thu-ml/tianshou/releases/download/v0.4.4/tianshou-0.4.4.tar.gz']"
-52,coqui-ai/TTS,"['https://github.com/coqui-ai/TTS/releases/download/v0.0.9/vocoder_models--en--ljspeech--mulitband-melgan.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.0.10/vocoder_models--nl--mai--parallel-wavegan.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.0.11/vocoder_models--de--thorsten--wavegrad.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.0.12/vocoder_model--en--ljspeech-hifigan_v2.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.0.13/vocoder_models--en--sam--hifigan_v2.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.0.15/tts_models--jp--kokoro--tacotron2-DDC.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.1.0/tts_models--en--ljspeech--speedy-speech-wn.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.1.2/vocoder_models--de--thorsten--fullband-melgan.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.1.3/vocoder_models--de--thorsten--fullband-melgan.zip', 'https://github.com/coqui-ai/TTS/releases/download/v0.2.0/vocoder_models--ja--kokoro--hifigan_v1.zip']"
-53,Netflix/security_monkey,"['https://github.com/Netflix/security_monkey/releases/download/v0.3.5/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.3.8/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.3.9/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.4.0/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.4.1/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.5.0/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.6.0/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.7.0/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.8.0/static.tar.gz', 'https://github.com/Netflix/security_monkey/releases/download/v0.9.0/static.tar.gz']"
-54,hylang/hy,"['https://github.com/hylang/hy/releases/download/0.13.0/hy-0.13.0.tar.gz', 'https://github.com/hylang/hy/releases/download/0.13.1/hy-0.13.1.tar.gz', 'https://github.com/hylang/hy/releases/download/0.14.0/hy-0.14.0.tar.gz', 'https://github.com/hylang/hy/releases/download/0.15.0/hy-0.15.0.tar.gz', 'https://github.com/hylang/hy/releases/download/0.16.0/hy-0.16.0.tar.gz', 'https://github.com/hylang/hy/releases/download/0.17.0/hy-0.17.0.tar.gz', 'https://github.com/hylang/hy/releases/download/0.18.0/hy-0.18.0.tar.gz', 'https://github.com/hylang/hy/releases/download/0.19.0/hy-0.19.0.tar.gz', 'https://github.com/hylang/hy/releases/download/0.20.0/hy-0.20.0.tar.gz', 'https://github.com/hylang/hy/releases/download/1.0a1/hy-1.0a1.tar.gz']"
-55,k4yt3x/video2x,"['https://github.com/k4yt3x/video2x/releases/download/2.7.0/video2x-2.7.0-win32-full.zip', 'https://github.com/k4yt3x/video2x/releases/download/2.7.1/video2x-2.7.1-win32-full.zip', 'https://github.com/k4yt3x/video2x/releases/download/2.9.0/video2x-2.9.0-win32-light.zip', 'https://github.com/k4yt3x/video2x/releases/download/2.10.0/video2x-2.10.0-win32-light.zip', 'https://github.com/k4yt3x/video2x/releases/download/3.0.0/video2x-3.0.0-win32-light.zip', 'https://github.com/k4yt3x/video2x/releases/download/4.0.0-beta1/video2x-4.0.0_beta1-win32-full.zip', 'https://github.com/k4yt3x/video2x/releases/download/4.0.0-beta2/video2x-4.0.0_beta2-win32-light.zip', 'https://github.com/k4yt3x/video2x/releases/download/4.0.0-beta3/video2x-4.0.0_beta3-win32-full.zip', 'https://github.com/k4yt3x/video2x/releases/download/4.0.0/video2x-4.0.0-win32-light.zip', 'https://github.com/k4yt3x/video2x/releases/download/4.1.0/video2x-4.1.0-win32-full.zip']"
-56,chatopera/Synonyms,"['https://github.com/chatopera/Synonyms/releases/download/1.1/synonyms-1.1.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/1.3/synonyms-1.3.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/1.5/synonyms-1.5.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/1.6/synonyms-1.6.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/1.8/synonyms-1.8.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/1.9/synonyms-1.9.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/2.0/synonyms-2.0.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/2.1/synonyms-2.1.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/2.2/synonyms-2.2.tar.gz', 'https://github.com/chatopera/Synonyms/releases/download/3.7/synonyms-3.7.0.tar.gz']"
-57,instaloader/instaloader,"['https://github.com/instaloader/instaloader/releases/download/v3.3.3/instaloader-v3.3.3-win10.zip', 'https://github.com/instaloader/instaloader/releases/download/v3.3.4/instaloader-v3.3.4-windows-standalone.zip', 'https://github.com/instaloader/instaloader/releases/download/v3.3.5/instaloader-v3.3.5-windows-standalone.zip', 'https://github.com/instaloader/instaloader/releases/download/v3.3.6/instaloader-v3.3.6-windows-standalone.zip', 'https://github.com/instaloader/instaloader/releases/download/v3.3.7/instaloader-v3.3.7-windows-standalone.zip', 'https://github.com/instaloader/instaloader/releases/download/v3.3.8/instaloader-v3.3.8-windows-standalone.zip', 'https://github.com/instaloader/instaloader/releases/download/v3.3.9/instaloader-v3.3.9-windows-standalone.zip', 'https://github.com/instaloader/instaloader/releases/download/v3.3.10/instaloader-v3.3.10-windows-standalone.zip', 'https://github.com/instaloader/instaloader/releases/download/v4.0rc1/instaloader-v4.0rc1-doc.tar.gz', 'https://github.com/instaloader/instaloader/releases/download/v4.0/instaloader-v4.0-windows-standalone.zip']"
-58,PyCQA/bandit,"['https://github.com/PyCQA/bandit/releases/download/1.5.0/bandit-1.5.0.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.5.1/bandit-1.5.1.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.6.0/bandit-1.6.0.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.6.1/bandit-1.6.1.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.6.2/bandit-1.6.2.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.6.3/bandit-1.6.3.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.7.0/bandit-1.7.0.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.7.1/bandit-1.7.1.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.7.2/bandit-1.7.2.tar.gz', 'https://github.com/PyCQA/bandit/releases/download/1.7.3/bandit-1.7.3.tar.gz']"
-59,voila-dashboards/voila,"['https://github.com/voila-dashboards/voila/releases/download/v0.2.13/voila-0.2.13.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.2.14/voila-0.2.14.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.2.16/voila-0.2.16.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.3.0a0/voila-0.3.0a0.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.3.0a1/voila-0.3.0a1.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.3.0a2/voila-0.3.0a2.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.3.0b0/voila-0.3.0b0.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.3.0rc0/voila-0.3.0rc0.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.3.0/voila-0.3.0.tar.gz', 'https://github.com/voila-dashboards/voila/releases/download/v0.3.1/voila-0.3.1.tar.gz']"
-60,yoshiko2/Movie_Data_Capture,"['https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.1/beta1.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.2/beta2.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.2.1/Beta.0.2.1.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.3/Beta3.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.3.1/Beta3.1.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.3.2/Beta3.2.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.4/Beta4.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.5/Beta.5.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.6/Beta6.zip', 'https://github.com/yoshiko2/Movie_Data_Capture/releases/download/0.6.1/Beta6.zip']"
-61,mesonbuild/meson,"['https://github.com/mesonbuild/meson/releases/download/0.17.0/meson_0.17.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.18.0/meson_0.18.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.19.0/meson_0.19.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.20.0/meson_0.20.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.21.0/meson_0.21.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.22.0/meson_0.22.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.23.0/meson_0.23.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.24.0/meson_0.24.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.25.0/meson_0.25.0.tar.gz', 'https://github.com/mesonbuild/meson/releases/download/0.26.0/meson_0.26.0.tar.gz']"
-62,CouchPotato/CouchPotatoServer,"['https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.0.8.1/couchpotato-2.0.8.1.macosx-10_6-intel.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.0.8/couchpotato-2.0.8.win32.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.1.0/CouchPotato-2.1.0.win32.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.2.0/CouchPotato-2.2.0.macosx-10_6-intel.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.2.1/CouchPotato-2.2.1.win32.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.3.1/CouchPotato-2.3.1.win32.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.4.0/CouchPotato-2.4.0.win32.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.5.1/CouchPotato-2.5.1.win32.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.5.2/CouchPotato-2.5.2.macosx-10_6-intel.zip', 'https://github.com/CouchPotato/CouchPotatoServer/releases/download/build/2.6.0/CouchPotato-2.6.0.macosx-10_6-intel.zip']"
-63,NervanaSystems/neon,"['https://github.com/NervanaSystems/neon/releases/download/v0.8.1/neon-0.8.1.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v0.8.2/neon-0.8.2.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v0.9.0/neon-0.9.0.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v1.0.0/neon-1.0.0.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v1.1.0/neon-1.1.0.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v1.1.3/neon-1.1.3.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v1.1.5/neon-1.1.5.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v1.2.0/neon-1.2.0.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v1.2.1/neon-1.2.1.tar.gz', 'https://github.com/NervanaSystems/neon/releases/download/v1.2.2/neon-1.2.2.tar.gz']"
-64,chrippa/livestreamer,"['https://github.com/chrippa/livestreamer/releases/download/v1.5.0/livestreamer-1.5-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.5.1/livestreamer-1.5.1-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.5.2/livestreamer-1.5.2-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.6.0/livestreamer-v1.6.0-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.6.1/livestreamer-v1.6.1-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.7.0/livestreamer-v1.7.0-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.7.1/livestreamer-v1.7.1-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.7.2/livestreamer-v1.7.2-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.7.3/livestreamer-v1.7.3-win32.zip', 'https://github.com/chrippa/livestreamer/releases/download/v1.7.4/livestreamer-v1.7.4-win32.zip']"
+,Name,Stargazers,Age,Num_of_Releases
+0,ytdl-org/youtube-dl,109590,11.0,341
+1,tensorflow/models,73508,6.0,21
+2,nvbn/thefuck,70670,7.0,17
+3,huggingface/transformers,62003,3.0,89
+4,pallets/flask,58839,12.0,19
+5,keras-team/keras,55102,7.0,38
+6,scikit-learn/scikit-learn,49908,11.0,26
+7,tiangolo/fastapi,44584,3.0,121
+8,scrapy/scrapy,43405,12.0,25
+9,localstack/localstack,40664,5.0,47
+10,3b1b/manim,44155,7.0,10
+11,soimort/you-get,43849,9.0,115
+12,scrapy/scrapy,43405,12.0,25
+13,localstack/localstack,40664,5.0,47
+14,Textualize/rich,37167,2.0,133
+15,commaai/openpilot,34326,5.0,44
+16,pandas-dev/pandas,33789,11.0,85
+17,d2l-ai/d2l-zh,32022,4.0,14
+18,XX-net/XX-Net,31214,7.0,322
+19,getsentry/sentry,30783,11.0,88
+20,certbot/certbot,28877,7.0,30
+21,openai/gym,27425,6.0,11
+22,psf/black,27173,4.0,20
+23,mitmproxy/mitmproxy,26916,12.0,44
+24,hankcs/HanLP,25780,7.0,56
+25,apache/airflow,25725,7.0,47
+26,yt-dlp/yt-dlp,24541,1.0,52
+27,encode/django-rest-framework,23312,11.0,14
+28,explosion/spaCy,23262,7.0,97
+29,pypa/pipenv,22926,5.0,29
+30,littlecodersh/ItChat,22156,6.0,13
+32,getredash/redash,20984,8.0,98
+33,facebookresearch/detectron2,20770,2.0,10
+34,StevenBlack/hosts,20706,10.0,424
+35,nicolargo/glances,20382,10.0,28
+36,numpy/numpy,20329,11.0,82
+37,ray-project/ray,20274,5.0,55
+38,httpie/httpie,20266,10.0,42
+39,microsoft/cascadia-code,19846,2.0,17
+40,python-poetry/poetry,19563,4.0,108
+41,open-mmlab/mmdetection,19512,3.0,33
+42,celery/celery,19246,13.0,34
+43,streamlit/streamlit,18862,2.0,36
+44,locustio/locust,18769,11.0,76
+45,python-telegram-bot/python-telegram-bot,18425,6.0,88
+46,PyTorchLightning/pytorch-lightning,18281,3.0,90
+47,rwightman/pytorch-image-models,18204,3.0,31
+48,mingrammer/diagrams,18138,2.0,35
+49,magenta/magenta,17580,6.0,47
+50,google/jax,17351,3.0,32
+51,freqtrade/freqtrade,17267,5.0,56
+52,pytorch/fairseq,16826,4.0,13
+53,cookiecutter/cookiecutter,16834,8.0,19
+54,plotly/dash,16371,7.0,39
+55,sanic-org/sanic,16085,6.0,57
+56,Eloston/ungoogled-chromium,14480,6.0,60
+57,facebook/prophet,14384,5.0,10
+58,RasaHQ/rasa,13917,5.0,148
+59,rsms/inter,13741,4.0,52
+60,ArchiveBox/ArchiveBox,13312,5.0,23
+61,powerline/powerline,13271,10.0,21
+62,d2l-ai/d2l-en,13242,3.0,10
+63,youfou/wxpy,13238,5.0,14
+64,pyg-team/pytorch_geometric,14525,4.0,31
+65,jina-ai/jina,14507,2.0,196
+66,Eloston/ungoogled-chromium,14480,6.0,60
+67,facebook/prophet,14384,5.0,10
+68,joke2k/faker,14101,9.0,119
+69,RasaHQ/rasa,13917,5.0,148
+70,rsms/inter,13741,4.0,52
+71,ArchiveBox/ArchiveBox,13312,5.0,23
+72,powerline/powerline,13271,10.0,21
+73,d2l-ai/d2l-en,13242,3.0,10
+74,youfou/wxpy,13238,5.0,14
+75,huggingface/datasets,13174,2.0,46
+76,RaRe-Technologies/gensim,13142,11.0,41
+77,microsoft/recommenders,13020,3.0,11
+78,microsoft/WSL,12875,6.0,10
+79,aio-libs/aiohttp,12393,8.0,127
+80,pallets/click,12393,8.0,14
+81,horovod/horovod,12361,4.0,18
+82,saltstack/salt,12304,11.0,174
+83,tensorflow/tensor2tensor,12252,4.0,75
+84,gunthercox/ChatterBot,12213,7.0,86
+85,apprenticeharper/DeDRM_tools,12173,7.0,81
+86,kovidgoyal/calibre,12146,9.0,244
+87,GoogleCloudPlatform/microservices-demo,12102,3.0,11
+88,wagtail/wagtail,12022,8.0,177
+89,lra/mackup,11985,9.0,14
+90,sivel/speedtest-cli,11880,9.0,22
+91,mlflow/mlflow,11766,3.0,52
+92,Delgan/loguru,11646,4.0,18
+93,pytorch/vision,11546,5.0,28
+94,flairNLP/flair,11542,3.0,20
+95,plotly/plotly.py,11438,8.0,64
+96,microsoft/nni,11419,3.0,35
+97,meolu/walle-web,11401,6.0,20
+98,frappe/erpnext,11093,11.0,963
+99,searx/searx,11094,8.0,14
+100,equinusocio/material-theme,11049,7.0,88
+101,mail-in-a-box/mailinabox,11047,8.0,18
+102,allenai/allennlp,10967,5.0,57
+103,ankitects/anki,10966,9.0,32
+104,ansible/awx,10933,5.0,18
+105,Chia-Network/chia-blockchain,10869,2.0,75
+106,beetbox/beets,10868,11.0,33
+107,networkx/networkx,10687,11.0,38
+108,Textualize/textual,10483,1.0,10
+109,scipy/scipy,9546,11.0,64
+110,dmlc/dgl,9460,4.0,24
+111,nbedos/termtosvg,9401,3.0,12
+112,matrix-org/synapse,9400,7.0,411
+113,mwaskom/seaborn,9379,10.0,24
+114,cookiecutter/cookiecutter-django,9313,8.0,108
+115,darknessomi/musicbox,9308,7.0,12
+116,sympy/sympy,9151,12.0,40
+117,ml-tooling/best-of-ml-python,9183,1.0,43
+118,coleifer/peewee,9117,11.0,125
+119,Ciphey/Ciphey,9776,2.0,29
+120,lucidrains/vit-pytorch,9804,1.0,136
+121,python-pillow/Pillow,9732,9.0,45
+122,iterative/dvc,9662,5.0,360
+123,frida/frida,9636,9.0,505
+124,scipy/scipy,9546,11.0,64
+125,dmlc/dgl,9460,4.0,24
+126,nbedos/termtosvg,9401,3.0,12
+127,matrix-org/synapse,9400,7.0,411
+128,mwaskom/seaborn,9379,10.0,24
+129,cookiecutter/cookiecutter-django,9313,8.0,108
+130,darknessomi/musicbox,9308,7.0,12
+131,Zulko/moviepy,9199,8.0,14
+132,sympy/sympy,9151,12.0,40
+133,ml-tooling/best-of-ml-python,9183,1.0,43
+134,coleifer/peewee,9117,11.0,125
+135,pyinstaller/pyinstaller,9113,10.0,37
+136,harelba/q,9035,10.0,20
+137,Gallopsled/pwntools,8974,9.0,61
+138,thumbor/thumbor,8931,11.0,103
+139,OWASP/owasp-mstg,8890,5.0,14
+140,SecureAuthCorp/impacket,8816,7.0,12
+141,facebookresearch/ParlAI,8796,5.0,20
+142,PrefectHQ/prefect,8793,3.0,118
+143,facebook/chisel,8782,8.0,11
+144,falconry/falcon,8754,9.0,11
+145,tweepy/tweepy,8745,13.0,23
+146,pytest-dev/pytest,8699,6.0,46
+147,encode/httpx,8689,3.0,36
+148,seatgeek/fuzzywuzzy,8661,10.0,23
+149,ultralytics/yolov3,8653,3.0,12
+150,s0md3v/Photon,8623,4.0,18
+151,EpistasisLab/tpot,8551,6.0,27
+152,aws/serverless-application-model,8514,5.0,51
+153,pallets/jinja,8486,11.0,17
+154,keras-team/autokeras,8474,4.0,56
+155,httpie/http-prompt,8476,6.0,17
+156,microsoft/qlib,8456,1.0,14
+157,wkentaro/labelme,8453,6.0,51
+158,borgbackup/borg,8260,7.0,76
+159,benoitc/gunicorn,8284,12.0,26
+160,rq/rq,8279,10.0,19
+161,ludwig-ai/ludwig,8219,3.0,14
+162,spotDL/spotify-downloader,8360,5.0,51
+163,jopohl/urh,8167,6.0,90
+164,heartexlabs/label-studio,8164,2.0,48
+165,pyodide/pyodide,8179,4.0,37
+166,apache/tvm,8036,5.0,10
+167,pre-commit/pre-commit,8030,8.0,83
+168,KurtBestor/Hitomi-Downloader,7982,4.0,64
+169,microsoft/pyright,7906,3.0,325
+170,arrow-py/arrow,7862,9.0,43
+171,maurosoria/dirsearch,7887,9.0,17
+172,PaddlePaddle/PaddleHub,7873,3.0,27
+173,qutebrowser/qutebrowser,7804,7.0,80
+174,the-paperless-project/paperless,7706,6.0,27
+175,edgedb/edgedb,7631,4.0,13
+176,tiangolo/typer,7670,2.0,19
+177,UKPLab/sentence-transformers,7607,2.0,30
+178,pyro-ppl/pyro,7419,4.0,28
+179,streamlink/streamlink,7429,5.0,47
+180,mopidy/mopidy,7387,12.0,13
+181,statsmodels/statsmodels,7337,11.0,20
+182,secdev/scapy,7328,6.0,12
+183,modin-project/modin,7296,3.0,50
+184,lanpa/tensorboardX,7325,4.0,14
+185,boto/boto3,7227,7.0,14
+186,AlessandroZ/LaZagne,7198,7.0,19
+187,evilsocket/opensnitch,7162,5.0,17
+188,lbryio/lbry-sdk,7158,6.0,276
+189,graphql-python/graphene,7173,6.0,53
+190,kedro-org/kedro,7155,3.0,30
+191,fail2ban/fail2ban,7104,10.0,26
+192,mps-youtube/mps-youtube,7102,8.0,27
+193,OlafenwaMoses/ImageAI,6996,4.0,10
+194,tensorlayer/TensorLayer,6993,5.0,76
+195,kivy/python-for-android,6965,10.0,12
+196,spyder-ide/spyder,6945,7.0,82
+197,encode/starlette,6913,3.0,16
+198,robotframework/robotframework,6916,7.0,56
+199,pytube/pytube,6902,10.0,31
+200,google/trax,6898,2.0,18
+201,laramies/theHarvester,6740,11.0,16
+202,ajenti/ajenti,6726,12.0,20
+203,microsoft/DeepSpeed,6684,2.0,29
+204,tgalal/yowsup,6702,9.0,16
+205,mindsdb/mindsdb,6618,3.0,108
+206,hugapi/hug,6615,6.0,13
+207,OctoPrint/OctoPrint,6588,9.0,121
+208,pymc-devs/pymc,6548,13.0,35
+209,ActivityWatch/activitywatch,6544,6.0,34
+210,great-expectations/great_expectations,6506,4.0,145
+211,QUANTAXIS/QUANTAXIS,6502,6.0,62
+212,canonical/microk8s,6422,4.0,15
+213,LonamiWebs/Telethon,6400,5.0,40
+214,optuna/optuna,6320,4.0,45
+215,kornia/kornia,6303,3.0,27
+216,numenta/nupic,6298,9.0,47
+217,dylanaraps/pywal,6253,4.0,78
+218,Uberi/speech_recognition,6237,8.0,23
+219,automl/auto-sklearn,6234,6.0,33
+220,microsoft/playwright-python,6209,1.0,52
+221,alteryx/featuretools,6116,4.0,106
+222,AirtestProject/Airtest,6120,4.0,13
+223,stanfordnlp/stanza,6104,4.0,13
+224,deis/deis,6094,8.0,66
+225,jiaaro/pydub,6097,11.0,31
+226,arc298/instagram-scraper,6149,9.0,52
+227,pallets/werkzeug,6064,11.0,25
+228,doccano/doccano,6074,4.0,26
+229,simonw/datasette,6045,4.0,111
+230,xonsh/xonsh,5964,7.0,88
+231,cupy/cupy,5977,5.0,113
+232,aws/aws-sam-cli,5958,5.0,130
+233,belluzj/fantasque-sans,5990,8.0,17
+234,facebookresearch/pytorch3d,5928,2.0,10
+235,shenweichen/DeepCTR,6013,4.0,35
+236,burnash/gspread,5895,10.0,36
+237,HypothesisWorks/hypothesis,5864,9.0,590
+238,platformio/platformio-core,5836,8.0,111
+239,conan-io/conan,5835,6.0,209
+240,facebookresearch/hydra,5825,2.0,18
+241,byt3bl33d3r/CrackMapExec,5849,6.0,27
+242,jazzband/pip-tools,5854,9.0,50
+243,guardicore/monkey,5781,6.0,14
+244,scikit-learn-contrib/imbalanced-learn,5833,7.0,29
+245,mahmoud/boltons,5772,9.0,18
+246,gevent/gevent,5744,9.0,21
+247,jarun/googler,5749,6.0,36
+248,MycroftAI/mycroft-core,5742,6.0,128
+249,deepmipt/DeepPavlov,5706,4.0,49
+250,chainer/chainer,5680,7.0,107
+251,Jrohy/multi-v2ray,5692,4.0,73
+252,python-visualization/folium,5721,9.0,22
+253,brython-dev/brython,5659,7.0,62
+254,1adrianb/face-alignment,5659,4.0,10
+255,googleapis/google-api-python-client,5612,8.0,104
+256,Yelp/dumb-init,5613,6.0,22
+257,docker/docker-py,5710,9.0,76
+258,Netflix/metaflow,5577,2.0,45
+259,yzhao062/pyod,5591,4.0,27
+260,microsoft/MMdnn,5566,4.0,12
+261,OpenNMT/OpenNMT-py,5581,5.0,32
+262,Dman95/SASM,5564,9.0,25
+263,lmcinnes/umap,5561,4.0,26
+264,eternnoir/pyTelegramBotAPI,5525,6.0,50
+265,MagicStack/asyncpg,5444,5.0,26
+266,nate-parrott/Flashlight,5421,7.0,46
+267,lutris/lutris,5388,8.0,45
+268,jrnl-org/jrnl,5367,10.0,34
+269,benbusby/whoogle-search,5365,2.0,22
+270,persepolisdm/persepolis,5367,5.0,12
+271,nl8590687/ASRT_SpeechRecognition,5345,5.0,14
+272,sqlalchemy/sqlalchemy,5333,3.0,112
+273,mwouts/jupytext,5352,3.0,118
+274,alan-turing-institute/sktime,5297,3.0,23
+275,devicons/devicon,5264,8.0,21
+276,gorakhargosh/watchdog,5259,11.0,26
+277,encode/uvicorn,5212,4.0,25
+278,PyGithub/PyGithub,5229,10.0,30
+279,onionshare/onionshare,5176,8.0,28
+280,librosa/librosa,5163,9.0,34
+281,snorkel-team/snorkel,5125,6.0,14
+282,dmlc/gluon-cv,5185,4.0,10
+283,bee-san/pyWhat,5128,1.0,19
+284,saulpw/visidata,5387,5.0,34
+285,airbnb/knowledge-repo,5077,5.0,31
+286,10se1ucgo/DisableWinTracking,5061,6.0,26
+287,jarun/buku,5074,6.0,39
+288,flask-admin/flask-admin,5035,10.0,16
+289,caronc/apprise,5043,4.0,31
+290,espnet/espnet,4991,4.0,43
+291,msiemens/tinydb,5037,8.0,59
+292,SigmaHQ/sigma,4929,5.0,12
+293,Kozea/WeasyPrint,4931,10.0,50
+294,ChrisKnott/Eel,4946,4.0,17
+295,pypa/pipx,4970,3.0,22
+296,scikit-image/scikit-image,4882,10.0,11
+297,akfamily/akshare,4877,2.0,1100
+298,sensepost/objection,4873,4.0,74
+299,buildbot/buildbot,4814,12.0,54
+300,mikf/gallery-dl,4815,7.0,116
+301,sdispater/pendulum,4786,5.0,45
+302,dpkp/kafka-python,4813,9.0,34
+303,StackStorm/st2,4767,8.0,67
+304,kubernetes-client/python,4767,5.0,70
+305,healthchecks/healthchecks,4761,6.0,34
+306,PyCQA/isort,4810,8.0,98
+307,google/clusterfuzz,4730,3.0,32
+308,facebook/PathPicker,4735,7.0,13
+309,jonaswinkler/paperless-ng,4748,3.0,33
+310,shmilylty/OneForAll,4690,3.0,16
+311,cloudtools/troposphere,4672,9.0,71
+312,dbt-labs/dbt-core,4668,6.0,113
+313,minimaxir/textgenrnn,4678,4.0,12
+314,dagster-io/dagster,4653,4.0,179
+315,conda/conda,4649,9.0,140
+316,zalando/patroni,4669,6.0,43
+317,aidlearning/AidLearning-FrameWork,4656,3.0,24
+318,deepset-ai/haystack,4607,2.0,14
+319,PaddlePaddle/PaddleSeg,4662,2.0,15
+320,thu-ml/tianshou,4588,4.0,22
+321,twisted/twisted,4582,11.0,19
+322,posativ/isso,4572,9.0,25
+323,oppia/oppia,4569,6.0,79
+324,michael-lazar/rtv,4574,7.0,38
+325,coqui-ai/TTS,4684,1.0,28
+326,commonmark/commonmark-spec,4546,7.0,13
+327,stamparm/maltrail,4511,7.0,34
+328,hugsy/gef,4543,7.0,12
+329,activeloopai/Hub,4467,2.0,42
+330,awslabs/autogluon,4448,2.0,15
+331,django-crispy-forms/django-crispy-forms,4434,10.0,20
+332,blakeblackshear/frigate,4502,3.0,79
+333,sripathikrishnan/redis-rdb-tools,4436,10.0,10
+334,alirezamika/autoscraper,4376,1.0,14
+335,xmendez/wfuzz,4365,7.0,31
+336,bojone/bert4keras,4374,2.0,27
+337,Tautulli/Tautulli,4360,7.0,199
+338,KevinMusgrave/pytorch-metric-learning,4387,2.0,25
+339,nameko/nameko,4308,9.0,44
+340,espressif/esptool,4304,7.0,24
+341,Netflix/security_monkey,4266,7.0,18
+342,pytransitions/transitions,4320,7.0,29
+343,py-pdf/PyPDF2,4262,10.0,12
+344,dgtlmoon/changedetection.io,4262,1.0,28
+345,k4yt3x/video2x,4289,4.0,25
+346,hylang/hy,4231,9.0,14
+347,python-attrs/attrs,4210,7.0,15
+348,chatopera/Synonyms,4218,4.0,24
+349,madmaze/pytesseract,4189,11.0,23
+350,yoshiko2/Movie_Data_Capture,4180,2.0,93
+351,ohld/igbot,4192,5.0,57
+352,jpadilla/pyjwt,4190,11.0,31
+353,Kinto/kinto,4180,7.0,154
+354,iperov/DeepFaceLive,4173,1.0,17
+355,ReactiveX/RxPY,4187,9.0,14
+356,instaloader/instaloader,4174,5.0,113
+357,dschep/ntfy,4172,6.0,26
+358,FederatedAI/FATE,4203,3.0,34
+359,lucidrains/deep-daze,4181,1.0,67
+360,nccgroup/ScoutSuite,4188,3.0,29
+361,bridgecrewio/checkov,4114,2.0,1224
+362,cloud-custodian/cloud-custodian,4114,6.0,48
+363,PyCQA/bandit,4100,4.0,11
+364,google/grr,4090,8.0,23
+365,lucidrains/DALLE-pytorch,4238,1.0,172
+366,lucidrains/DALLE2-pytorch,4073,0.0,89
+367,hummingbot/hummingbot,4073,3.0,66
+368,hhatto/autopep8,4056,11.0,16
+369,Tribler/tribler,4039,9.0,121
+370,voila-dashboards/voila,4078,3.0,17
+371,offu/WeRoBot,4042,9.0,28
+372,sqlfluff/sqlfluff,4006,3.0,57
+373,ThioJoe/YT-Spammer-Purge,4007,0.0,49
+374,spec-first/connexion,3988,7.0,119
+375,unit8co/darts,3975,3.0,29
+376,CTFd/CTFd,3971,7.0,51
+377,mesonbuild/meson,3959,8.0,107
+378,pytorch/ignite,3956,4.0,17
+379,PyCQA/pylint,3950,6.0,41
+380,coleifer/huey,3939,10.0,44
+381,HJLebbink/asm-dude,3936,6.0,39
+382,cowrie/cowrie,3935,7.0,17
+383,Guake/guake,3932,10.0,63
+384,androguard/androguard,3946,7.0,17
+385,MechanicalSoup/MechanicalSoup,3930,8.0,11
+386,projectdiscovery/nuclei-templates,3913,2.0,204
+387,amperser/proselint,3928,7.0,34
+388,rasbt/mlxtend,3896,7.0,24
+389,jisaacks/GitGutter,3871,9.0,55
+390,googleapis/google-cloud-python,3875,8.0,696
+391,CouchPotato/CouchPotatoServer,3870,11.0,15
+392,wandb/client,3864,5.0,87
+393,NervanaSystems/neon,3861,7.0,32
+394,bigchaindb/bigchaindb,3868,6.0,51
+395,PantsuDango/Dango-Translator,3868,2.0,12
+396,jayfk/statuspage,3852,6.0,12
+397,lux-org/lux,3847,2.0,12
+398,chrippa/livestreamer,3844,10.0,24
+399,graphql-python/graphene-django,3848,5.0,38
+400,nvdv/vprof,3830,6.0,19
+401,open-mmlab/mmcv,3814,3.0,45
+402,vyperlang/vyper,3803,5.0,23
+403,plamere/spotipy,3856,8.0,23
+404,HIT-SCIR/ltp,3843,11.0,38

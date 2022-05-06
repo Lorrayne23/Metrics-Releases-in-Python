@@ -1,6 +1,5 @@
 import pandas
 import requests
-import io
 import json
 import ast
 import os
@@ -10,7 +9,7 @@ from subprocess import PIPE, Popen
 # pip3 install radon
 
 # read csv
-csv = pandas.read_csv("repositorios_populares_python.csv")
+csv = pandas.read_csv("repo_releases.csv")
 
 # create dir
 PATH_RELEASES = "temp/releases-downloaded"
@@ -48,18 +47,31 @@ def uncompress_release(file_name, clean_up=True):
 # Run radon 
 def exec_radon(target_folder, clean_up=True):
     print(f"Getting metrics from: [{target_folder}]")
-    os.system(f"radon cc {PATH_RELEASES}/{target_folder} -j > metrics.json")
+    os.system(f"env\Scripts\\radon.exe cc {PATH_RELEASES}/{target_folder} --average --total-average -j > cc_metrics.json")
+    os.system(f"env\Scripts\\radon.exe raw {PATH_RELEASES}/{target_folder} -s -j > raw_metrics.json")
+    os.system(f"env\Scripts\\radon.exe hal  {PATH_RELEASES}/{target_folder} -j > hal_metrics.json")
 
-    # return metrics.json
-    f = open("metrics.json", "rt", encoding="utf-8")
-    data = f.read()
+    # return cc_metrics.json
+    f = open("cc_metrics.json", "rt", encoding="utf-8")
+    cc_data = f.read()
+    f.close()
+
+    # return raw_metrics.json
+    f = open("raw_metrics.json", "rt", encoding="utf-8")
+    raw_data = f.read()
+    f.close()
+
+    # return hal_metrics.json
+    f = open("hal_metrics.json", "rt", encoding="utf-8")
+    hal_data = f.read()
     f.close()
 
     # clean up
     if clean_up:
         shutil.rmtree(f"{PATH_RELEASES}/{target_folder}", ignore_errors=True)
         # os.remove("metrics.json")
-    return json.loads(data)
+    # return json.loads([cc_data, raw_data, hal_data])
+    return [cc_data, raw_data, hal_data]
 
 # Save Metrics
 def save_metric(data):
@@ -74,11 +86,24 @@ def save_metric(data):
 # main
 for index, repository in csv.iterrows():
     name = repository["Name"]
-    releases = ast.literal_eval(str(repository["Releases"]).strip('"'))
+    releases = []
+    releases.append(repository["R1"])
+    releases.append(repository["R2"])
+    releases.append(repository["R3"])
+    releases.append(repository["R4"])
+    releases.append(repository["R5"])
+    releases.append(repository["R6"])
+    releases.append(repository["R7"])
+    releases.append(repository["R8"])
+    releases.append(repository["R9"])
+    releases.append(repository["R10"])
 
     data = {
         "repo_name": name.split('/')[1],
-        "metrics": []
+        "cc_metrics": [],
+        "raw_metrics": [],
+        "hal_metrics": [],
+        
     }
 
     # check if metric is already collected ...
@@ -92,7 +117,10 @@ for index, repository in csv.iterrows():
             file_name = PATH_RELEASES + "/" + release.split('/')[-1]
             if download_release(file_name, release):
                 target_folder = uncompress_release(file_name)
+                metric_json = []
                 metric_json = exec_radon(target_folder)
-                data["metrics"].append(metric_json)
+                data["cc_metrics"].append(json.loads(metric_json[0]))
+                data["raw_metrics"].append(json.loads(metric_json[1]))
+                data["hal_metrics"].append(json.loads(metric_json[2]))
 
         save_metric(data)
