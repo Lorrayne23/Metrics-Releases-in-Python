@@ -30,3 +30,5 @@ https://www.python.org/
 https://pypi.org/project/radon/
 
 https://docs.github.com/pt/graphql
+
+Link para acessar o artigo no overleaf: https://www.overleaf.com/project/6281378431d6a3512e481623
