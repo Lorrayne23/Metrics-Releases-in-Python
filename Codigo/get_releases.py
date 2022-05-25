@@ -21,6 +21,7 @@ query = """{
       nodes {
         url
         tagName
+        createdAt
       }
     }
     url
@@ -61,6 +62,13 @@ def save_releases(repo_owner, repo_name, url, releases):
   df = pd.DataFrame(data) 
   df.to_csv("repo_releases.csv", mode='a', header=False, index=False)
 
+def save_releases_date(repo_owner, repo_name, url, createdAt):
+  data = []
+  name = repo_owner + '/' + repo_name
+  data.append([name, url, createdAt[0], createdAt[1], createdAt[2], createdAt[3], createdAt[4], createdAt[5], createdAt[6], createdAt[7], createdAt[8], createdAt[9]])
+  df = pd.DataFrame(data) 
+  df.to_csv("repo_releases_created_date.csv", mode='a', header=False, index=False)
+
 # Create file to save the data
 columns = ["Name", "URL", "R1", "R2", "R3", "R4", "R5", "R6", "R7", "R8", "R9", "R10"]
 df = pd.DataFrame([], columns=columns) 
@@ -89,13 +97,16 @@ with open('repositorios_populares_python.csv', newline='') as csvfile:
     url = query_result['data']['repository']['url']
     
     releases = []
+    createdAt = []
     for r in results:
       releases.append(r["tagName"])
+      createdAt.append(r["createdAt"])
 
     # releases = check_releases_extension(results)
 
     if len(releases) >= 10:
       save_releases(repo_owner, repo_name, url, releases[0:10])
+      save_releases_date(repo_owner, repo_name, url, createdAt[0:10])
       continue
 
     # has_next_page = query_result['data']['repository']['releases']['pageInfo']['hasNextPage']
