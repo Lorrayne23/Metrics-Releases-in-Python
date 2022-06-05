@@ -19,7 +19,7 @@ Para obter os dados de medição apresentados neste trabalho será necessário b
 
 ## Professores responsáveis
 
-* Humberto Marques
+* Humberto Torres Marques Neto
 
 ## Instruções de utilização
 
