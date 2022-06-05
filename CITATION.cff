@@ -1,31 +1,25 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Análise de Métricas Estáticas entre releases em repositórios de linguagem Python no GitHub
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Neves Vasconcelos
+    given-names: André Murilo
+  - family-names: Barreto Noman
+    given-names: Leonardo Antunes
+  - family-names: Silva
+    given-names: Lorrayne Reis
+  - family-names: Cota Starling
+    given-names: Paulo Henrique
+  - family-names: dos Santos
+    given-names: Victor Augusto
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Marques Neto
+    given-names: Humberto Torres
 keywords:
-  - 
-  - 
-repository-code: 
+  - Métricas
+  - Python
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti6-6311100-metricas-releases-python
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2022-05-31
