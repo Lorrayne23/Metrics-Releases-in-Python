@@ -13,9 +13,9 @@ Para obter os dados de medição apresentados neste trabalho será necessário b
 ## Alunos integrantes da equipe
 * André Murilo Neves Vasconcelos
 * Leonardo Antunes Barreto Noman
-* Lorrayne Reis
+* Lorrayne Reis Silva
 * Paulo Henrique Cota Starling
-* Victor Augusto
+* Victor Augusto dos Santos
 
 ## Professores responsáveis
 
