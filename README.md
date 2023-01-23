@@ -1,3 +1,4 @@
+<div align="justify">
 # Analysis of Static Metrics Across Releases in Python Language Repositories on GitHub
 
 This repository is part of the Interdisciplinary Work at the institution Puc minas. It aims to answer the following questions:
@@ -23,3 +24,5 @@ To obtain the measurement data presented in this work, was necessary download th
 
 
 Link to acess the project in overlaf: https://www.overleaf.com/project/6281378431d6a3512e481623
+
+<div>
