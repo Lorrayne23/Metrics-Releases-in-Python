@@ -1,34 +1,25 @@
-# Análise de Métricas Estáticas entre releases em repositórios  de linguagem Python no GitHub
+# Analysis of Static Metrics Across Releases in Python Language Repositories on GitHub
 
-Este repositorio faz parte do trabalho Trabalho Interdisciplinar de Software VI na instituição Puc minas. E tem como objetivo responder as seguintes questions:
+This repository is part of the Interdisciplinary Work at the institution Puc minas. It aims to answer the following questions:
  
-  * A cada release do software python, existe o aumento de métricas brutas ?
-  * A cada release, os sistemas se tornam mais fáceis de serem lidos e menos arriscados de serem modificados?
-  * A criação de releases diminui a manutenibilidade do sistema?
-
-Com isto, as  análises métricas estáticas consideradas neste trabalho serão obtidas para um conjunto de 300 sistemas que utilizam a linguagem de programação Python. Serão extraídos do sistema de controle de versão GitHub, sendo escolhidos os sistemas python que possuem, no mínimo, 10 releases. A ferramenta utilizada para efetuar as análises métricas será o Radon.
+  * With each release of the python software, is there an increase in raw metrics?
+  * With each release, do the systems become easier to read and less risky to change?
+  * Does creating releases decrease system maintainability?
+  
+With this, the static metric analyzes considered in this work will be obtained for a set of 300 systems that use the Python programming language. They will be extracted from the GitHub version control system, being chosen the Python systems that have at least 10 releases. The tool used to perform the metric analysis will be Radon.
  
-Para obter os dados de medição apresentados neste trabalho será necessário baixar o código de 300 sistemas python. Para isto será utilizado a ferramenta graphql do github que permite por meio de web service API, baixar informações dos repositórios. Então será desenvolvido um script para automatizar a clonagem dos repositórios. E por fim, desenvolver um programa encarregado de percorrer cada um desses sistemas, realizar as medidas por meio da ferramenta Radon e construir uma tabela onde foram registradas todas essas medidas. 
+To obtain the measurement data presented in this work, it will be necessary to download the code of 300 python systems. For this, the github graphql tool will be used, which allows, through the web service API, to download information from the repositories. Then a script will be developed to automate the cloning of repositories. And finally, to develop a program in charge of going through each of these systems, carrying out the measurements using the Radon tool and building a table where all these measurements were recorded. 
 
-## Alunos integrantes da equipe
+## Team Members
 * André Murilo Neves Vasconcelos
 * Leonardo Antunes Barreto Noman
 * Lorrayne Reis Silva
 * Paulo Henrique Cota Starling
 * Victor Augusto dos Santos
 
-## Professores responsáveis
+## Teachers
 
 * Humberto Torres Marques Neto
 
-## Instruções de utilização
 
-[Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]
-
-https://www.python.org/
-
-https://pypi.org/project/radon/
-
-https://docs.github.com/pt/graphql
-
-Link para acessar o artigo no overleaf: https://www.overleaf.com/project/6281378431d6a3512e481623
+Link to acess the project in overlaf: https://www.overleaf.com/project/6281378431d6a3512e481623
