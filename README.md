@@ -1,5 +1,5 @@
 <div align="justify">
-# Analysis of Static Metrics Across Releases in Python Language Repositories on GitHub
+Analysis of Static Metrics Across Releases in Python Language Repositories on GitHub
 
 This repository is part of the Interdisciplinary Work at the institution Puc minas. It aims to answer the following questions:
  
